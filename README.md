@@ -1,0 +1,2 @@
+# newGame
+Simple JS game
